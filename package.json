@@ -1,0 +1,24 @@
+{
+  "name": "multicall-chunk",
+  "version": "1.0.0",
+  "description": "multicall chunk over the wire",
+  "main": "dist/index.js",
+  "directories": {
+    "src": "src",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/multicall-chunk.git"
+  },
+  "keywords": [],
+  "author": "sam bacha",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sambacha/multicall-chunk/issues"
+  },
+  "homepage": "https://github.com/sambacha/multicall-chunk#readme"
+}
